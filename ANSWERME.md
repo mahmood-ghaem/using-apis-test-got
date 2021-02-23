@@ -12,6 +12,8 @@ I had to use async/await and fetch also promise.
    (_TIP: If you are unsure between two decisions, then write a comment with the alternative you considered but decided against with arguments. There is again no one correct answer here, but we want to see you think in an OOP way_)
    (_TIP: If you want the code highlighting, it is also fine to create a `.js` file and then write down here what file to look at_)
 
+   I created Dom class
+
 Imagine the data is given as follows:
 
 ```
